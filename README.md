@@ -3,8 +3,9 @@
 The Bioinformatics Core is a part of Bioinformatics unit at Childrens National Medical Center.
 
 
-| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status |
-| -----------------------  |:----------- | -------------- | ----------    | ------ |
+| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
+| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
+|RNA Seq | Toru       | Kazue  | Neuroscience  | `Ongoing` | G216 | Payal
 |RNA Seq | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
 |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
 |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
