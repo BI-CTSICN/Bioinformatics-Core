@@ -7,6 +7,9 @@ Colons can be used to align columns.
 
 | Bioinformatics Analysis      | Requestor   | PI  | Department | Status |
 | ------------- |:-------------:| -----:|
+
+| Bioinformatics Analysis        | Requestor           | PI  | Department  | Status  |
+| ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
