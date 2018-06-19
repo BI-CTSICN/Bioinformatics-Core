@@ -9,9 +9,9 @@ The Bioinformatics Core is a part of Bioinformatics unit at Childrens National M
 | |TCR Seq | -       | Mike Keller  | Cancer  | `Ongoing` | TCR Pilot | Payal |
 | |RNA Seq | Toru       | Kazue  | Neuroscience  | `Ongoing` | G216 | Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old PE, Mouse| Payal |
-|RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 new PE, Mouse | Payal |
-|RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
-|RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
+| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 new PE, Mouse | Payal |
+| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
+| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
 | |RNA Seq | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
 | |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
 | |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
