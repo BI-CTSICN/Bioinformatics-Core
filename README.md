@@ -1,4 +1,4 @@
-# Bioinformatics Unit
+# Childrens Bioinformatics Unit (CBU)
 
 The Bioinformatics Unit is a part of Childrens Research Institute at Childrens National Medical Center.
 
