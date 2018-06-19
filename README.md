@@ -7,8 +7,23 @@ Colons can be used to align columns.
 
 | Bioinformatics Analysis  | Requestor   | PI             | Department    | Status |
 | -----------------------  |:----------- | -------------- | ----------    | ------ |
-| RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | Done |
-|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | Done |
+| RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done`|
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done`|
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+|RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |
+
 
 
 
