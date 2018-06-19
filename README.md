@@ -5,10 +5,14 @@ The Bioinformatics Core is a part of Bioinformatics unit at Childrens National M
 
 Colons can be used to align columns.
 
-| Bioinformatics Analysis      | Requestor   | PI  | Department | Status |
-| ------------- |:-------------:| -----:|
+| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status |
+| -----------------------  |:----------- | -------------- | ----------    | ------ |
+| RNA Seq                  | Maria       | Joshua Corbin  | Neuroscience  | Done |
 
-| Bioinformatics Analysis        | Requestor           | PI  | Department  | Status  |
+
+
+
+| Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
