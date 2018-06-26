@@ -11,7 +11,6 @@ The Bioinformatics Unit is a part of Childrens' Research Institute at Children's
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old PE, Mouse| Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 new PE, Mouse | Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
-| |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
 | |RNA Seq | Maria       | Joshua Corbin  | Neuroscience  | `Done` |FACs Dbx E13 and E18 |Payal |
 | |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |GFP values |Payal |
 | |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |Foxp2 E13, E18 |Payal |
