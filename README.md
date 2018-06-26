@@ -32,4 +32,7 @@ The Bioinformatics Unit is a part of Childrens' Research Institute at Children's
 | |microRNA analysis of Transcriptome data | -     | Susan  | GenMed  | `Done` | |Surajit |
 | |RNA Seq | -     | Kazue  | GenMed  | `Done` | |Surajit |
 | |Microarray Analysis  | -       | Abhinash  | Sheikh Zayed  | `Done` | |Surajit |
+| |Microarray Analysis  | -       | Yi-Wen  | GenMed  | `Done` | |Surajit |
+| |Microarray Analysis  | -       | Zi-Han  | GenMed  | `Done` | |Surajit |
+
 
