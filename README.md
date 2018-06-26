@@ -12,16 +12,16 @@ The Bioinformatics Unit is a part of Childrens' Research Institute at Children's
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 new PE, Mouse | Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
-| |RNA Seq | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq  | Claire       | Anna Penn  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq  | Junko Sasaki       | Kazue  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq  |Toru       | Kazue  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq  | Toru       | Kazue  | Neuroscience  | `Done`| |Payal |
-| |Differential Gene Expression                  |   -    | Kazue  | Neuroscience  | `Done` | |Payal |
-| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done`| |Payal |
-| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done` | |Payal |
+| |RNA Seq | Maria       | Joshua Corbin  | Neuroscience  | `Done` |FACs Dbx E13 and E18 |Payal |
+| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |GFP values |Payal |
+| |RNA Seq  | Maria       | Joshua Corbin  | Neuroscience  | `Done` |Foxp2 E13, E18 |Payal |
+| |RNA Seq  | Claire       | Anna Penn  | Neuroscience  | `Done` |AKR cortex embryo |Payal |
+| |RNA Seq  | Junko Sasaki       | Kazue  | Neuroscience  | `Done` | G193 new PE, Human|Payal |
+| |RNA Seq  |Toru       | Kazue  | Neuroscience  | `Done` | TS|Payal |
+| |RNA Seq  | Toru       | Kazue  | Neuroscience  | `Done`|TS ERCC |Payal |
+| |Differential Gene Expression                  |   -    | Kazue  | Neuroscience  | `Done` | AB DEG|Payal |
+| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done`|G151 - KHT samples |Payal |
+| |RNA Seq  | Toru       | Kazue   | Neuroscience  | `Done` |KHT30 and VN5 samples |Payal |
 | |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
 | |Batch Effect Removal | Maria       | Joshua Corbin  | Neuroscience  | `Done` | |Payal |
 | |RNA Seq , Differential Gene Expression, TPM Pilot | Hayk       | Eric  | GenMed  | `Done` | |Payal, Surajit |
