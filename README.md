@@ -5,9 +5,9 @@ The Bioinformatics Unit is a part of Childrens' Research Institute at Children's
 
 |Project ID| Bioinformatics Analysis  | Requestor   | PI             | Department    | Status | Tags  | Done By |
 |----------| -----------------------  |:----------- | -------------- | ----------    | ------ |------ |------ |
-| |RNA Seq | Evan       | Vittorio  | Neuroscience  | `Ongoing` | TRAP Pilot | Payal |
 | |TCR Seq | -       | Mike Keller  | Cancer  | `Ongoing` | TCR Pilot | Payal |
-| |RNA Seq | Toru       | Kazue  | Neuroscience  | `Ongoing` | G216 | Payal |
+| |RNA Seq | Evan       | Vittorio  | Neuroscience  | `Done` | TRAP Pilot | Payal |
+| |RNA Seq | Toru       | Kazue  | Neuroscience  | `Done` | G216 | Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old PE, Mouse| Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 new PE, Mouse | Payal |
 | |RNA Seq | Junko       | Kazue  | Neuroscience  | `Done` | G193 old SE, Mouse | Payal |
