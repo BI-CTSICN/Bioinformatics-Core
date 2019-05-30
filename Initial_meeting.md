@@ -1,3 +1,8 @@
+
+---
+layout: default
+---
+
 # Initial Meeting
 
 1. Understand Project
