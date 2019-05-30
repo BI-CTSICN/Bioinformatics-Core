@@ -10,10 +10,12 @@ menu: header
 
 
 2. Data Management
-a. Data Transfer
-b. Data Storage
-  $ Costs involved in storage
-  $ Costs involved in retrieval
+
+  a. Data Transfer
+  b. Data Storage
+    
+    $ Costs involved in storage
+    $ Costs involved in retrieval
 
 
 3. Timeline for Delivery
