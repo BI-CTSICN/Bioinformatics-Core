@@ -1,3 +1,9 @@
+---
+layout: page
+title: Initial Meeting
+menu: header
+---
+
 Initial Meeting
 
 1. Understand Project
