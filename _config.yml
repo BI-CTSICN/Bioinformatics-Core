@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 
 navbar-links:
-
-Initial-Meeting : ""
+  Initial-Meeting : "Initial_meeting"
