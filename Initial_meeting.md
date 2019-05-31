@@ -11,9 +11,15 @@ menu: header
 
 #### 2. Data Management
 
-    a. Data Transfer
+    a. Data Transfer from Requester
+        
+        A. Users provide Hard disk with initial data
+        
+        B. Dropbpx
+        
+        C. AWS S3
   
-    b. Data Storage (AWS/Wasabi/NAS)
+    b. Data Storage (AWS/Wasabi/NAS) after analysis
   
       A. Long term
     
