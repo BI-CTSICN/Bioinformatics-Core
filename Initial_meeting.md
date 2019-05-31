@@ -4,36 +4,36 @@ title: Initial Meeting
 menu: header
 ---
 
-# Initial Meeting
+## Initial Meeting
 
-1. Understand Project
+#### 1. Understand Project
 
 
-2. Data Management
+#### 2. Data Management
 
-  a. Data Transfer
+    a. Data Transfer
   
-  b. Data Storage (AWS/Wasabi/NAS)
+    b. Data Storage (AWS/Wasabi/NAS)
   
-    A. Long term
+      A. Long term
     
-    B. Mid term
+      B. Mid term
     
-    C. Short term
+      C. Short term
     
-    $ Costs involved in storage
-    $ Costs involved in retrieval
+      $ Costs involved in storage
+      $ Costs involved in retrieval
     
-  c. Metadata for Data Storage
+    c. Metadata for Data Storage
     
-    > Snakefile & DAG
-    > BCO
+      > Snakefile & DAG
+      > BCO
 
-3. Timeline for Delivery
-
-
-4. Authorship
+#### 3. Timeline for Delivery
 
 
-5. Compute Options
+#### 4. Authorship
+
+
+#### 5. Compute Options
 
