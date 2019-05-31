@@ -8,7 +8,8 @@ menu: header
 
 #### 1. Understand Project
 
-    Template fo questions for initial meeting discussion. [Redcap form](https://cri-datacap.org/surveys/?s=3EJP7L8PLK)
+    Template fo questions for initial meeting discussion. 
+   [Redcap form](https://cri-datacap.org/surveys/?s=3EJP7L8PLK)
 
 #### 2. Data Management
 
@@ -38,9 +39,11 @@ menu: header
 
 #### 3. Timeline for Delivery
 
+    Standard timeline is two weeks for delivery of results, unless noted beforhand for prirority processing.
 
 #### 4. Authorship
-
+    
+   [CBU Authorship Policy](https://bi-ctsicn.github.io/CBU/authorship_guidelines.html) 
 
 #### 5. Compute Options
 
