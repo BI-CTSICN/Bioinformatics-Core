@@ -8,6 +8,7 @@ menu: header
 
 #### 1. Understand Project
 
+    Template fo questions for initial meeting discussion. [Redcap form](https://cri-datacap.org/surveys/?s=3EJP7L8PLK)
 
 #### 2. Data Management
 
