@@ -6,14 +6,14 @@ menu: header
 
 ## Initial Meeting
 
-#### 1. Understand Project
+#### 1. Understanding Requester Project Scope
 
-    Template fo questions for initial meeting discussion. 
+    Template for questions for initial meeting discussion is in REDCap. 
    [Redcap form](https://cri-datacap.org/surveys/?s=3EJP7L8PLK)
 
-#### 2. Data Management
+#### 2. Data Management 
 
-    a. Data Transfer from Requester
+    a. Data Transfer options from the Requester
         
         A. Users provide Hard disk with initial data
         
